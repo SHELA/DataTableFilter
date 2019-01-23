@@ -1,1 +1,1 @@
-.filterinput{padding:0 5px!important}.filterreset{padding:5px!important;margin:0!important}.form-group,.table-filter .input-group{margin-bottom:0!important}.table-filter .collapse.in{display:block!important}
+.filterinput{padding:0 5px!important;min-width:50px}.filterreset{padding:5px!important;margin:0!important}.form-group,.table-filter .input-group{margin-bottom:0!important}.table-filter .collapse.in{display:block!important}.table-filter .input-group-addon{padding:0}
